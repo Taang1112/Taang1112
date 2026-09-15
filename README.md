@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taang</h1>
-<h3 align="center">Laravel Enthusias</h3>
+<h3 align="center">Laravel Enthusiast</h3>
 
 
 - 🔭 I’m currently working on [Assets](https://github.com/Taang1112/Assets.git)

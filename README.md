@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taang</h1>
 <h3 align="center">Laravel Enthusias</h3>
 
-<p align="left"> <a href="https://github.com/Taang1112/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taang1112" alt="taang1112" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taang1112" alt="taang1112" /></a> </p>
 
 - 🔭 I’m currently working on [Assets](https://github.com/Taang1112/Assets.git)
 
